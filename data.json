@@ -1,0 +1,253 @@
+[
+  {
+    "title": "Addis Ababa",
+    "subtitle": "Ethiopia",
+    "longitude": 38.725348615568976,
+    "latitude": 9.22379744157493,
+    "image": "https://github.com/devhalls/Cardano-Summit-2024/blob/main/images/Comm-Events-1_1-Addis-Ababa-Ethiopia.jpg",
+    "dates": ["2024-10-26"],
+    "url": "https://lu.ma/0cyf66om"
+  },
+  {
+    "title": "Amsterdam",
+    "subtitle": "Netherlands",
+    "longitude": 4.911447720241314,
+    "latitude": 52.354004724528934,
+    "image": "https://github.com/devhalls/Cardano-Summit-2024/blob/main/images/Comm-Events-1_1-Amsterdam.jpg",
+    "dates": ["2024-11-02"],
+    "url": "https://lu.ma/48rl0i7d"
+  },
+  {
+    "title": "Bangkok",
+    "subtitle": "Thailand",
+    "longitude": 100.55208823558236,
+    "latitude": 13.741682113138369,
+    "image": "https://github.com/devhalls/Cardano-Summit-2024/blob/main/images/Comm-Events-1_1-Bangkok-Thailand.jpg",
+    "dates": ["2024-10-23"],
+    "url": "https://lu.ma/6qvxetsb"
+  },
+  {
+    "title": "Berlin",
+    "subtitle": "Germany",
+    "longitude": 6.780692751782867,
+    "latitude": 51.224579807345755,
+    "image": "https://github.com/devhalls/Cardano-Summit-2024/blob/main/images/Comm-Events-1_1-Berlin-Germany.jpg",
+    "dates": ["2024-10-10"],
+    "url": "https://lu.ma/mg3x5lh4"
+  },
+  {
+    "title": "Buenos Aires",
+    "subtitle": "Argentina",
+    "longitude": -58.38935677791182,
+    "latitude": -34.598189633377594,
+    "image": "https://github.com/devhalls/Cardano-Summit-2024/blob/main/images/Comm-Events-1_1-Buenos-Aires-Argentina.jpg",
+    "dates": ["2024-10-18"],
+    "url": "https://lu.ma/n3g24zj3"
+  },
+  {
+    "title": "Düsseldorf",
+    "subtitle": "Germany",
+    "longitude": 6.789287640824599,
+    "latitude": 51.22426601335649,
+    "image": "https://github.com/devhalls/Cardano-Summit-2024/blob/main/images/Comm-Events-1_1-Dusseldorf-Germany.jpg",
+    "dates": ["2024-10-11", "2024-10-11"],
+    "url": "https://lu.ma/kzyzeo54"
+  },
+  {
+    "title": "Goma",
+    "subtitle": "Democratic Republic of the Congo",
+    "longitude": 29.22970262024131,
+    "latitude": -1.6771053394508182,
+    "image": "https://github.com/devhalls/Cardano-Summit-2024/blob/main/images/Comm-Events-1_1-Goma-Democratic-Republic-of-the-Congo.jpg",
+    "dates": ["2024-10-19"],
+    "url": "https://lu.ma/oukm0gdx"
+  },
+  {
+    "title": "Hanoi",
+    "subtitle": "Vietnam",
+    "longitude": 105.80232684722974,
+    "latitude": 21.004534850552375,
+    "image": "https://github.com/devhalls/Cardano-Summit-2024/blob/main/images/Comm-Events-1_1-Hanoi-Vietnam.jpg",
+    "dates": ["2024-10-27"],
+    "url": "https://lu.ma/yd79q5ia"
+  },
+  {
+    "title": "Ho Chi Minh City",
+    "subtitle": "Vietnam",
+    "longitude": 106.69199396257076,
+    "latitude": 10.76810079839997,
+    "image": "https://github.com/devhalls/Cardano-Summit-2024/blob/main/images/Comm-Events-1_1-Ho-Chi-Minh-Vietnam.jpg",
+    "dates": ["2024-10-26"],
+    "url": "https://lu.ma/27d2tetg"
+  },
+  {
+    "title": "Hong Kong",
+    "subtitle": "China",
+    "longitude": 114.1531481932529,
+    "latitude": 22.28298521866337,
+    "image": "https://github.com/devhalls/Cardano-Summit-2024/blob/main/images/Comm-Events-1_1-Hong-Kong-China.jpg",
+    "dates": ["2024-10-23"],
+    "url": "https://lu.ma/ym5xghgc"
+  },
+  {
+    "title": "Hyderabad",
+    "subtitle": "India",
+    "longitude": 78.37918094907657,
+    "latitude": 17.434765554850152,
+    "image": "https://github.com/devhalls/Cardano-Summit-2024/blob/main/images/Comm-Events-1_1-Hyderabad-India.jpg",
+    "dates": ["2024-10-26"],
+    "url": "https://lu.ma/ez2cohf5"
+  },
+  {
+    "title": "Lisbon",
+    "subtitle": "Portugal",
+    "longitude": -9.142068650923422,
+    "latitude": 38.756397229822745,
+    "image": "https://github.com/devhalls/Cardano-Summit-2024/blob/main/images/Comm-Events-1_1-Lisbon-Portugal.jpg",
+    "dates": ["2024-10-23"],
+    "url": "https://lu.ma/fr832yiv"
+  },
+  {
+    "title": "London",
+    "subtitle": "United Kingdom",
+    "longitude": -0.1080587914060511,
+    "latitude": 51.5322999050847,
+    "image": "https://github.com/devhalls/Cardano-Summit-2024/blob/main/images/Comm-Events-1_1-London-England.jpg",
+    "dates": ["2024-10-19"],
+    "url": "https://lu.ma/5bbod71l"
+  },
+  {
+    "title": "Mexico City",
+    "subtitle": "Mexico",
+    "longitude": -99.16754385092342,
+    "latitude": 19.411632622365612,
+    "image": "https://github.com/devhalls/Cardano-Summit-2024/blob/main/images/Comm-Events-1_1-Mexico-City-Mexico.jpg",
+    "dates": ["2024-11-15"],
+    "url": "https://lu.ma/l0gggmvg"
+  },
+  {
+    "title": "New York City",
+    "subtitle": "USA",
+    "longitude": -74.01319232208816,
+    "latitude": 40.70534859858361,
+    "image": "https://github.com/devhalls/Cardano-Summit-2024/blob/main/images/Comm-Events-1_1-New-York-City-USA.jpg",
+    "dates": ["2024-10-24"],
+    "url": "https://lu.ma/chvagr1i"
+  },
+  {
+    "title": "Oslo",
+    "subtitle": "Norway",
+    "longitude": 10.749401597227397,
+    "latitude": 59.914754943918176,
+    "image": "https://github.com/devhalls/Cardano-Summit-2024/blob/main/images/Comm-Events-1_1-Oslo-Norway.jpg",
+    "dates": ["2024-10-04", "2024-10-05"],
+    "url": "https://lu.ma/pc6nl4gi"
+  },
+  {
+    "title": "Paris",
+    "subtitle": "France",
+    "longitude": 2.344763991406051,
+    "latitude": 48.869576943459656,
+    "image": "https://github.com/devhalls/Cardano-Summit-2024/blob/main/images/Comm-Events-1_1-Paris-France.jpg",
+    "dates": ["2024-11-02"],
+    "url": "https://lu.ma/rna4d5xb"
+  },
+  {
+    "title": "Prague",
+    "subtitle": "Czech Republic",
+    "longitude": 14.460144064417634,
+    "latitude": 50.10233622381107,
+    "image": "https://github.com/devhalls/Cardano-Summit-2024/blob/main/images/Comm-Events-1_1-Prague-Czech-Republic.jpg",
+    "dates": ["2024-10-19"],
+    "url": "https://lu.ma/i7x499lz"
+  },
+  {
+    "title": "São Paulo",
+    "subtitle": "Brazil",
+    "longitude": -46.65233192208816,
+    "latitude": -23.56513288139539,
+    "image": "https://github.com/devhalls/Cardano-Summit-2024/blob/main/images/Comm-Events-1_1-Sao-Paulo-Brazil.jpg",
+    "dates": ["2024-11-01"],
+    "url": "https://lu.ma/bwg8f7a0"
+  },
+  {
+    "title": "Seoul",
+    "subtitle": "South Korea",
+    "longitude": 127.05750107791187,
+    "latitude": 37.50896857944586,
+    "image": "https://github.com/devhalls/Cardano-Summit-2024/blob/main/images/Comm-Events-1_1-Seoul-South-Korea.jpg",
+    "dates": ["2024-11-09"],
+    "url": "https://lu.ma/ivmb1hqn"
+  },
+  {
+    "title": "Surabaya",
+    "subtitle": "Indonesia",
+    "longitude": 112.74829299140605,
+    "latitude": -7.26293828852666,
+    "image": "https://github.com/devhalls/Cardano-Summit-2024/blob/main/images/Comm-Events-1_1-Surabaya-Indonesia.jpg",
+    "dates": ["2024-10-26"],
+    "url": "https://lu.ma/kc1mck5x"
+  },
+  {
+    "title": "Tamale",
+    "subtitle": "Ghana",
+    "longitude": -0.846758350923422,
+    "latitude": 9.425744031680349,
+    "image": "https://github.com/devhalls/Cardano-Summit-2024/blob/main/images/Comm-Events-1_1-Tamale-Ghana.jpg",
+    "dates": ["2024-10-26"],
+    "url": "https://lu.ma/36yscdi0"
+  },
+  {
+    "title": "Tokyo",
+    "subtitle": "Japan",
+    "longitude": 139.7049118644176,
+    "latitude": 35.69820394540692,
+    "image": "https://github.com/devhalls/Cardano-Summit-2024/blob/main/images/Comm-Events-1_1-Tokyo-Japan.jpg",
+    "dates": ["2024-10-26"],
+    "url": "https://lu.ma/gd535al5"
+  },
+  {
+    "title": "Uganda – BidiBidi Refugee Camp",
+    "subtitle": "Uganda",
+    "longitude": 31.33597536441762,
+    "latitude": 3.5223504371052856,
+    "image": "https://github.com/devhalls/Cardano-Summit-2024/blob/main/images/b0c3cb49-2bd9-4b07-9df8-4d64bfc76129.avif",
+    "dates": ["2024-11-02"],
+    "url": "https://lu.ma/05kpyjo5"
+  },
+  {
+    "title": "Vancouver",
+    "subtitle": "Canada",
+    "longitude": -123.05622900859393,
+    "latitude": 49.10975355771348,
+    "image": "https://github.com/devhalls/Cardano-Summit-2024/blob/main/images/Comm-Events-1_1-Vancouver-Canada.jpg",
+    "dates": ["2024-11-03"],
+    "url": "https://www.meetup.com/cardano-blockchain-vancouver-community/events/303014094/"
+  },
+  {
+    "title": "Zug",
+    "subtitle": "Switzerland",
+    "longitude": 8.514628220241315,
+    "latitude": 47.17592563745347,
+    "image": "https://github.com/devhalls/Cardano-Summit-2024/blob/main/images/Comm-Events-1_1-Zug-Switzerland.jpg",
+    "dates": ["2024-10-24"],
+    "url": "https://lu.ma/CardanoSummitZug"
+  },
+  {
+    "title": "Dubai",
+    "subtitle": "United Arab Emirates",
+    "longitude": 55.34978865324697,
+    "latitude": 25.22352380092809,
+    "image": "https://github.com/devhalls/Cardano-Summit-2024/blob/main/images/Screenshot-2024-10-18-at-02.40.34.png",
+    "dates": ["2024-10-23", "2024-10-24"],
+    "url": "https://summit.cardano.org/",
+    "icon": {
+      "background": "#0033AD",
+      "border": "#0033AD",
+      "width": 34,
+      "height": 34,
+      "src": "http://upstream.org.uk/wp-content/uploads/2024/11/cardano-icon@4x.png"
+    },
+    "completes": false
+  }
+]
