@@ -238,7 +238,7 @@
     "subtitle": "United Arab Emirates",
     "longitude": 55.34978865324697,
     "latitude": 25.22352380092809,
-    "image": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/images/Screenshot-2024-10-18-at-02.40.34.png",
+    "image": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/images/Cardano-Summit-2024.png",
     "dates": ["2024-10-23", "2024-10-24"],
     "url": "https://summit.cardano.org/",
     "icon": {
@@ -246,7 +246,6 @@
       "border": "#0033AD",
       "width": 34,
       "height": 34,
-      "src": "http://upstream.org.uk/wp-content/uploads/2024/11/cardano-icon@4x.png"
     },
     "completes": false
   }
